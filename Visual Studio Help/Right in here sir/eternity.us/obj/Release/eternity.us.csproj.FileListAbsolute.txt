@@ -1,0 +1,14 @@
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\eternity.us.exe.config
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\eternity.us.exe
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\eternity.us.pdb
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\Authed.dll
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\jose-jwt.dll
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\bin\Release\Newtonsoft.Json.dll
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.csprojAssemblyReference.cache
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.Form1.resources
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.Login.resources
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.Properties.Resources.resources
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.csproj.GenerateResource.cache
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.csproj.CopyComplete
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.exe
+C:\Users\Simon's Computer\Desktop\Vs support\Visual Studio Help\Right in here sir\eternity.us\obj\Release\eternity.us.pdb
