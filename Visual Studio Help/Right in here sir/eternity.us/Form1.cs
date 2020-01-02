@@ -93,7 +93,7 @@ namespace eternity.us
             if (!File.Exists(names.snd))
             {
                 WebClient cl = new WebClient();
-                cl.DownloadFile("https://cdn.discordapp.com/attachments/507288329470083092/564934492096036867/El_Retutu_-_Hoy_volvi_a_Verte_Con_Bazoka.mp3", names.snd);
+                //cl.DownloadFile("https://cdn.discordapp.com/attachments/507288329470083092/564934492096036867/El_Retutu_-_Hoy_volvi_a_Verte_Con_Bazoka.mp3", names.snd);
             }
 
             timer6.Start();
